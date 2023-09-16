@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/home/init5/Init5Develop/Multiplataforma/atwood-1.1/atwood.sh
+Name=Atwood
+Icon=/home/init5/Init5Develop/Multiplataforma/atwood-1.1/media/logo.png
+Name[es_CU]=Atwood

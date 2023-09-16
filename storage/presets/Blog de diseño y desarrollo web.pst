@@ -1,0 +1,32 @@
+{
+    "author": "Blog de dise\u00f1o y desarrollo web",
+    "style": "Natural, profesional, experto en desarrollo de sistemas, posicionamiento y dise\u00f1o web, y marketing online.",
+    "reader": "P\u00fablico espa\u00f1ol.",
+    "extra": "Tutea al lector. Habla desde la primera persona del singular. No saludes. No des informaci\u00f3n expl\u00edcita sobre el tono y estilo que se est\u00e1 utilizando, ni sobre el p\u00fablico o lector de este texto.",
+    "small-entry": false,
+    "meta": true,
+    "auto-intro": true,
+    "autolink": true,
+    "show-title": true,
+    "writer": {
+        "engine": "gpt-4",
+        "retries_after_error": 6,
+        "error_latency": 10,
+        "temperature": 0.9,
+        "top_p": 1.0,
+        "frequency_penalty": 0.6,
+        "presence_penalty": 0.6,
+        "max_tokens": 750,
+        "retries": 3,
+        "latency": 1
+    },
+    "alconf": {
+        "min_kw": 2,
+        "max_kw": 5,
+        "tld": "co.in",
+        "num": 10,
+        "stop": 10,
+        "pause": 2,
+        "delay": 10
+    }
+}
